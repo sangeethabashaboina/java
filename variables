@@ -1,0 +1,20 @@
+public class Main
+{
+	public static void main(String[] args) {
+		int a=10;
+		long b=405;
+		char c='a';
+		double d=12.43;
+		String s="adkdjfalsdfk";
+		boolean f=true;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		System.out.println(d);
+		System.out.println(f);
+		System.out.println(s);
+		System.out.println(a);
+		
+	
+	}
+}
