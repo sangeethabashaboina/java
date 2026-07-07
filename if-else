@@ -1,0 +1,14 @@
+public class Main
+{
+	public static void main(String[] args) {
+		int a=23;
+		if(a>0){
+		    System.out.println("a is Positive");
+		}
+		else if(a<0){ System.out.println("a is negitive");
+		}
+		else{
+		    System.out.println("a is zero");
+		}
+	}
+}
